@@ -27,4 +27,4 @@ s - for optimized A* path
 ## Screen Shots
 | ![Alt text](astar.png?raw=true) |
 |:--:|
-| *Pygame UI Astar* |
+| *Pygame UI Astar (NOTE: Lighter colored paths are optimal, darker show blocked cell encounters)* |
