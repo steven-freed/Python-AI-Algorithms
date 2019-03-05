@@ -25,15 +25,15 @@ s - for optimized A* path
 ```
 
 ## Screen Shots
-Forward A*
+Forward A*<br>
 Red - all blocked encounters<br>
 Light Red - optimal path
 
-Backward A*
+Backward A*<br>
 Green - all blocked encounters<br>
 Light Green - optimal path
 
-Adaptive A*
+Adaptive A*<br>
 Blue - all blocked encounters<br>
 Light Blue - optimal path
 
