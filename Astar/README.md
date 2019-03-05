@@ -25,6 +25,18 @@ s - for optimized A* path
 ```
 
 ## Screen Shots
+Forward A*
+Red - all blocked encounters
+Light Red - optimal path
+
+Backward A*
+Green - all blocked encounters
+Light Green - optimal path
+
+Adaptive A*
+Blue - all blocked encounters
+Light Blue - optimal path
+
 | ![Alt text](astar.png?raw=true) |
 |:--:|
-| *Pygame UI Astar (NOTE: Lighter colored paths are optimal, darker show blocked cell encounters)* |
+| *Pygame UI Astar* |
