@@ -23,3 +23,8 @@ a - for adaptive A* path
 q - steps through all adaptive A* paths
 s - for optimized A* path
 ```
+
+## Screen Shots
+| ![Alt text](/astar.png?raw=true) |
+|:--:|
+| *Pygame UI Astar* |
