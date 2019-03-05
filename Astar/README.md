@@ -25,6 +25,6 @@ s - for optimized A* path
 ```
 
 ## Screen Shots
-| ![Alt text](/astar.png?raw=true) |
+| ![Alt text](astar.png?raw=true) |
 |:--:|
 | *Pygame UI Astar* |
