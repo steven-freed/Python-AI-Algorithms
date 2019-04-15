@@ -10,3 +10,8 @@ KNN is a supervised learning algorithm, meaning that the answer we want is in ou
 
 3. The more training data you give the algorithm, the more accurate it will be.
 (more vectors in the N dimensional space)
+
+## To Run:
+```
+~$ python k_nearest.py employee_data.txt test.txt
+```
