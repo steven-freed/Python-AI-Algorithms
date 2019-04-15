@@ -5,16 +5,16 @@ KNN is a supervised learning algorithm, meaning that the answer we want is in ou
 1. K should be odd.
 (if you have 2 vectors of class A and 2 vectors of class B, how do we classify? We need a way to prevent ties)
 
-2. We must pick a suitable K.</br>  
+2. We must pick a suitable K.<br />  
 (if we only have 4 vectors of training data and K = 3, the algorithm won't be very accurate if 3/4 of those training vectors are class A and 1/4 is class B)  
 
-3. The more training data you give the algorithm, the more accurate it will be.</br>
+3. The more training data you give the algorithm, the more accurate it will be.<br />
 (more vectors in the N dimensional space)
 
 ## To Run:
 A is your training data .txt file, with a header as the first row and the last column as the classification
-B is the data you want to classify, with a header as the first row and no classification listed
-Format:</br>
+B is the data you want to classify, with a header as the first row and no classification listed<br />
+Format:<br />
 k_nearest.py A B
 ```
 ~$ python k_nearest.py employee_data.txt test.txt
