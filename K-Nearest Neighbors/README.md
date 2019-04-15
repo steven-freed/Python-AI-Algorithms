@@ -14,8 +14,7 @@ Run my test data
 ~$ python k_nearest.py employee_data.txt test.txt
 ```
 
-or run your own test data...
-A is your training data .txt file, with a header as the first row and the last column as the classification
+or run your own test data...<br />A is your training data .txt file, with a header as the first row and the last column as the classification<br />
 B is the data you want to classify, with a header as the first row and no classification listed<br />
 Format:<br />
 ```
