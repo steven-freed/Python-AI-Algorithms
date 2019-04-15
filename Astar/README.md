@@ -4,7 +4,7 @@ This project contains A* variations such as; Repeated Forwards A*, Repeated Back
 ## Instructions
 1. pick a maze from the maze folder (sidewinderN.txt, where N is a number from 0-9) and run the program using...
 ```
-$ python presentation.py mazes/smallwinderN.txt
+$ python presentation.py mazes/sidewinderN.txt
 ```
 
 2. Press a key to see results...
